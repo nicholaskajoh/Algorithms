@@ -1,5 +1,5 @@
 # Algorithms
-This repo contains the implementation of common algorithms in Computer Science using Python, Java and C++ along with their intuition i.e explanation of how they work, plus examples with sample input data.
+This repo contains common Computer Science algorithms implemented in JavaScript, Python and Java.
 
 The algorithms here include:
 - Sorting
