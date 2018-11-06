@@ -7,6 +7,11 @@ The algorithms here include:
   - Merge sort
   - Bubble sort
 - Searching
+  - Linear search
+  - Binary Search
+- Graph algorithms
+  - Breadth First Search
+  - Depth First Search
 - Greedy algorithms
 - Dynamic programming
 - Mathematical algorithms
